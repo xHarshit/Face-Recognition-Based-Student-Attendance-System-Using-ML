@@ -53,7 +53,7 @@ An AI-powered attendance system that uses face recognition to automatically mark
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Face-Recognition-Based-Student-Attendance-System-Using-ML.git
+git clone https://github.com/xHarshit/Face-Recognition-Based-Student-Attendance-System-Using-ML.git
 cd Face-Recognition-Based-Student-Attendance-System-Using-ML
 ```
 
