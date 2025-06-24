@@ -73,13 +73,13 @@ python homepage.py
 
 ## 🖼️ Screenshots
 
-1. Login and Home Page  
+1. Homepage 
    ![Homepage](./screenshots/1.png)
 
-2. Dataset Creation & Training  
-   ![Dataset Creation](./screenshots/2.png)
+2. Face Recognition  
+   ![Face Recognition](./screenshots/2.png)
 
-3. Face Recognition & Attendance Logging  
+3. Attendance Logging  
    ![Attendance Logging](./screenshots/3.png)
 
 ---
