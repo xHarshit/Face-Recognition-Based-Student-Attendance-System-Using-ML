@@ -89,7 +89,7 @@ python homepage.py
 1. Use generateDataset.py to capture images of each student.  
 2. Train the classifier using train_v2.py.  
 3. Launch the GUI with homepage.py.  
-4. Recognizer detects faces from webcam and marks attendance in Excel and/or Firebase.
+4. Recognizer detects faces from webcam and marks attendance in Excel.
 
 ---
 
